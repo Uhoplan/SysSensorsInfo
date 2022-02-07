@@ -1,0 +1,22 @@
+{
+  "name": "syssensorsinfo",
+  "version": "1.0.0",
+  "description": "**TEST** **_TEST_**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uhoplan/SysSensorsInfo.git"
+  },
+  "author": "Ilya Plakkhin <iljaplakhin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Uhoplan/SysSensorsInfo/issues"
+  },
+  "homepage": "https://github.com/Uhoplan/SysSensorsInfo#readme",
+  "dependencies": {
+    "systeminformation": "^5.11.2"
+  }
+}
